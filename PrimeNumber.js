@@ -14,6 +14,7 @@ for (let i=2; i< primeCheck/2; i++){
     break;    
     }  
 }
+    
 if(!data)
     console.log('Prime number');
 else
